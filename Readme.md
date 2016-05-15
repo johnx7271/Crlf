@@ -1,4 +1,4 @@
-﻿Syntax:
+Syntax:
 
 CrLf fix|validate unix|windows [-f] path
 
